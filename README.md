@@ -7,4 +7,4 @@ Scripts are in ```Assets```
 ###Screeenshot
 ![Screenshot](https://github.com/nikhilbaad1/X-space-Fly/blob/master/sc4.png)
 
-![Screenshot](https://github.com/nikhilbaad1/X-space-Fly/blob/master/sc3.png)
+![Screenshot](https://github.com/nikhilbaad1/X-space-Fly/blob/master/sc2.png)
