@@ -5,4 +5,6 @@ In X-Space Fly game the goal is to get the rocket from starting launch pad to la
 Scripts are in ```Assets```
 
 ###Screeenshot
-![Screenshot]()
+![Screenshot](https://github.com/nikhilbaad1/X-space-Fly/blob/master/sc4.png)
+
+![Screenshot](https://github.com/nikhilbaad1/X-space-Fly/blob/master/sc3.png)
